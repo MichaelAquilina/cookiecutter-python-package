@@ -1,5 +1,8 @@
 *.py[cod]
 __pycache__
+.tox
+*.egg-info
+.cache
 
 # Sphinx
 # docs/_build
